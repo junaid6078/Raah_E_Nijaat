@@ -1,0 +1,2700 @@
+
+  [
+    {
+      "timings": {
+        "Fajr": "04:36 (PKT)",
+        "Sunrise": "05:59 (PKT)",
+        "Dhuhr": "12:38 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:16 (PKT)",
+        "Maghrib": "19:16 (PKT)",
+        "Isha": "20:40 (PKT)",
+        "Imsak": "04:26 (PKT)",
+        "Midnight": "00:38 (PKT)",
+        "Firstthird": "22:51 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "01 Aug 2024",
+        "timestamp": "1722484861",
+        "gregorian": {
+          "date": "01-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "25-01-1446",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 1,
+            "en": "Muḥarram",
+            "ar": "مُحَرَّم"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:36 (PKT)",
+        "Sunrise": "06:00 (PKT)",
+        "Dhuhr": "12:38 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:16 (PKT)",
+        "Maghrib": "19:16 (PKT)",
+        "Isha": "20:39 (PKT)",
+        "Imsak": "04:26 (PKT)",
+        "Midnight": "00:38 (PKT)",
+        "Firstthird": "22:50 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "02 Aug 2024",
+        "timestamp": "1722571261",
+        "gregorian": {
+          "date": "02-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "26-01-1446",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 1,
+            "en": "Muḥarram",
+            "ar": "مُحَرَّم"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:37 (PKT)",
+        "Sunrise": "06:00 (PKT)",
+        "Dhuhr": "12:38 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:15 (PKT)",
+        "Maghrib": "19:15 (PKT)",
+        "Isha": "20:38 (PKT)",
+        "Imsak": "04:27 (PKT)",
+        "Midnight": "00:38 (PKT)",
+        "Firstthird": "22:50 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "03 Aug 2024",
+        "timestamp": "1722657661",
+        "gregorian": {
+          "date": "03-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "27-01-1446",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 1,
+            "en": "Muḥarram",
+            "ar": "مُحَرَّم"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:38 (PKT)",
+        "Sunrise": "06:01 (PKT)",
+        "Dhuhr": "12:38 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:14 (PKT)",
+        "Maghrib": "19:14 (PKT)",
+        "Isha": "20:37 (PKT)",
+        "Imsak": "04:28 (PKT)",
+        "Midnight": "00:38 (PKT)",
+        "Firstthird": "22:50 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "04 Aug 2024",
+        "timestamp": "1722744061",
+        "gregorian": {
+          "date": "04-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "28-01-1446",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 1,
+            "en": "Muḥarram",
+            "ar": "مُحَرَّم"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:38 (PKT)",
+        "Sunrise": "06:01 (PKT)",
+        "Dhuhr": "12:38 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:14 (PKT)",
+        "Maghrib": "19:14 (PKT)",
+        "Isha": "20:36 (PKT)",
+        "Imsak": "04:28 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:50 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "05 Aug 2024",
+        "timestamp": "1722830461",
+        "gregorian": {
+          "date": "05-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "29-01-1446",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 1,
+            "en": "Muḥarram",
+            "ar": "مُحَرَّم"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:39 (PKT)",
+        "Sunrise": "06:02 (PKT)",
+        "Dhuhr": "12:38 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:13 (PKT)",
+        "Maghrib": "19:13 (PKT)",
+        "Isha": "20:36 (PKT)",
+        "Imsak": "04:29 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:49 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "06 Aug 2024",
+        "timestamp": "1722916861",
+        "gregorian": {
+          "date": "06-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "30-01-1446",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 1,
+            "en": "Muḥarram",
+            "ar": "مُحَرَّم"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:40 (PKT)",
+        "Sunrise": "06:02 (PKT)",
+        "Dhuhr": "12:37 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:12 (PKT)",
+        "Maghrib": "19:12 (PKT)",
+        "Isha": "20:35 (PKT)",
+        "Imsak": "04:30 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:49 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "07 Aug 2024",
+        "timestamp": "1723003261",
+        "gregorian": {
+          "date": "07-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "01-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:40 (PKT)",
+        "Sunrise": "06:03 (PKT)",
+        "Dhuhr": "12:37 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:12 (PKT)",
+        "Maghrib": "19:12 (PKT)",
+        "Isha": "20:34 (PKT)",
+        "Imsak": "04:30 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:49 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "08 Aug 2024",
+        "timestamp": "1723089661",
+        "gregorian": {
+          "date": "08-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "02-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:41 (PKT)",
+        "Sunrise": "06:03 (PKT)",
+        "Dhuhr": "12:37 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:11 (PKT)",
+        "Maghrib": "19:11 (PKT)",
+        "Isha": "20:33 (PKT)",
+        "Imsak": "04:31 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:48 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "09 Aug 2024",
+        "timestamp": "1723176061",
+        "gregorian": {
+          "date": "09-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "03-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:42 (PKT)",
+        "Sunrise": "06:04 (PKT)",
+        "Dhuhr": "12:37 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:10 (PKT)",
+        "Maghrib": "19:10 (PKT)",
+        "Isha": "20:32 (PKT)",
+        "Imsak": "04:32 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:48 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "10 Aug 2024",
+        "timestamp": "1723262461",
+        "gregorian": {
+          "date": "10-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "04-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:42 (PKT)",
+        "Sunrise": "06:04 (PKT)",
+        "Dhuhr": "12:37 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:09 (PKT)",
+        "Maghrib": "19:09 (PKT)",
+        "Isha": "20:31 (PKT)",
+        "Imsak": "04:32 (PKT)",
+        "Midnight": "00:37 (PKT)",
+        "Firstthird": "22:48 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "11 Aug 2024",
+        "timestamp": "1723348861",
+        "gregorian": {
+          "date": "11-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "05-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:43 (PKT)",
+        "Sunrise": "06:05 (PKT)",
+        "Dhuhr": "12:37 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:08 (PKT)",
+        "Maghrib": "19:08 (PKT)",
+        "Isha": "20:30 (PKT)",
+        "Imsak": "04:33 (PKT)",
+        "Midnight": "00:36 (PKT)",
+        "Firstthird": "22:47 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "12 Aug 2024",
+        "timestamp": "1723435261",
+        "gregorian": {
+          "date": "12-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "06-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:44 (PKT)",
+        "Sunrise": "06:05 (PKT)",
+        "Dhuhr": "12:36 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:08 (PKT)",
+        "Maghrib": "19:08 (PKT)",
+        "Isha": "20:29 (PKT)",
+        "Imsak": "04:34 (PKT)",
+        "Midnight": "00:36 (PKT)",
+        "Firstthird": "22:47 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "13 Aug 2024",
+        "timestamp": "1723521661",
+        "gregorian": {
+          "date": "13-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "07-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:44 (PKT)",
+        "Sunrise": "06:05 (PKT)",
+        "Dhuhr": "12:36 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:07 (PKT)",
+        "Maghrib": "19:07 (PKT)",
+        "Isha": "20:28 (PKT)",
+        "Imsak": "04:34 (PKT)",
+        "Midnight": "00:36 (PKT)",
+        "Firstthird": "22:46 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "14 Aug 2024",
+        "timestamp": "1723608061",
+        "gregorian": {
+          "date": "14-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "08-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:45 (PKT)",
+        "Sunrise": "06:06 (PKT)",
+        "Dhuhr": "12:36 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:06 (PKT)",
+        "Maghrib": "19:06 (PKT)",
+        "Isha": "20:27 (PKT)",
+        "Imsak": "04:35 (PKT)",
+        "Midnight": "00:36 (PKT)",
+        "Firstthird": "22:46 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "15 Aug 2024",
+        "timestamp": "1723694461",
+        "gregorian": {
+          "date": "15-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "09-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:45 (PKT)",
+        "Sunrise": "06:06 (PKT)",
+        "Dhuhr": "12:36 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:05 (PKT)",
+        "Maghrib": "19:05 (PKT)",
+        "Isha": "20:26 (PKT)",
+        "Imsak": "04:35 (PKT)",
+        "Midnight": "00:36 (PKT)",
+        "Firstthird": "22:46 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "16 Aug 2024",
+        "timestamp": "1723780861",
+        "gregorian": {
+          "date": "16-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "10-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:46 (PKT)",
+        "Sunrise": "06:07 (PKT)",
+        "Dhuhr": "12:36 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:04 (PKT)",
+        "Maghrib": "19:04 (PKT)",
+        "Isha": "20:25 (PKT)",
+        "Imsak": "04:36 (PKT)",
+        "Midnight": "00:35 (PKT)",
+        "Firstthird": "22:45 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "17 Aug 2024",
+        "timestamp": "1723867261",
+        "gregorian": {
+          "date": "17-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "11-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:47 (PKT)",
+        "Sunrise": "06:07 (PKT)",
+        "Dhuhr": "12:35 (PKT)",
+        "Asr": "16:05 (PKT)",
+        "Sunset": "19:03 (PKT)",
+        "Maghrib": "19:03 (PKT)",
+        "Isha": "20:24 (PKT)",
+        "Imsak": "04:37 (PKT)",
+        "Midnight": "00:35 (PKT)",
+        "Firstthird": "22:45 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "18 Aug 2024",
+        "timestamp": "1723953661",
+        "gregorian": {
+          "date": "18-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "12-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:47 (PKT)",
+        "Sunrise": "06:07 (PKT)",
+        "Dhuhr": "12:35 (PKT)",
+        "Asr": "16:04 (PKT)",
+        "Sunset": "19:03 (PKT)",
+        "Maghrib": "19:03 (PKT)",
+        "Isha": "20:23 (PKT)",
+        "Imsak": "04:37 (PKT)",
+        "Midnight": "00:35 (PKT)",
+        "Firstthird": "22:44 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "19 Aug 2024",
+        "timestamp": "1724040061",
+        "gregorian": {
+          "date": "19-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "13-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:48 (PKT)",
+        "Sunrise": "06:08 (PKT)",
+        "Dhuhr": "12:35 (PKT)",
+        "Asr": "16:04 (PKT)",
+        "Sunset": "19:02 (PKT)",
+        "Maghrib": "19:02 (PKT)",
+        "Isha": "20:22 (PKT)",
+        "Imsak": "04:38 (PKT)",
+        "Midnight": "00:35 (PKT)",
+        "Firstthird": "22:44 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "20 Aug 2024",
+        "timestamp": "1724126461",
+        "gregorian": {
+          "date": "20-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "14-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:49 (PKT)",
+        "Sunrise": "06:08 (PKT)",
+        "Dhuhr": "12:35 (PKT)",
+        "Asr": "16:04 (PKT)",
+        "Sunset": "19:01 (PKT)",
+        "Maghrib": "19:01 (PKT)",
+        "Isha": "20:20 (PKT)",
+        "Imsak": "04:39 (PKT)",
+        "Midnight": "00:35 (PKT)",
+        "Firstthird": "22:43 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "21 Aug 2024",
+        "timestamp": "1724212861",
+        "gregorian": {
+          "date": "21-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "15-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:49 (PKT)",
+        "Sunrise": "06:09 (PKT)",
+        "Dhuhr": "12:34 (PKT)",
+        "Asr": "16:04 (PKT)",
+        "Sunset": "19:00 (PKT)",
+        "Maghrib": "19:00 (PKT)",
+        "Isha": "20:19 (PKT)",
+        "Imsak": "04:39 (PKT)",
+        "Midnight": "00:34 (PKT)",
+        "Firstthird": "22:43 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "22 Aug 2024",
+        "timestamp": "1724299261",
+        "gregorian": {
+          "date": "22-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "16-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:50 (PKT)",
+        "Sunrise": "06:09 (PKT)",
+        "Dhuhr": "12:34 (PKT)",
+        "Asr": "16:04 (PKT)",
+        "Sunset": "18:59 (PKT)",
+        "Maghrib": "18:59 (PKT)",
+        "Isha": "20:18 (PKT)",
+        "Imsak": "04:40 (PKT)",
+        "Midnight": "00:34 (PKT)",
+        "Firstthird": "22:42 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "23 Aug 2024",
+        "timestamp": "1724385661",
+        "gregorian": {
+          "date": "23-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "17-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:50 (PKT)",
+        "Sunrise": "06:10 (PKT)",
+        "Dhuhr": "12:34 (PKT)",
+        "Asr": "16:03 (PKT)",
+        "Sunset": "18:58 (PKT)",
+        "Maghrib": "18:58 (PKT)",
+        "Isha": "20:17 (PKT)",
+        "Imsak": "04:40 (PKT)",
+        "Midnight": "00:34 (PKT)",
+        "Firstthird": "22:42 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "24 Aug 2024",
+        "timestamp": "1724472061",
+        "gregorian": {
+          "date": "24-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "18-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:51 (PKT)",
+        "Sunrise": "06:10 (PKT)",
+        "Dhuhr": "12:34 (PKT)",
+        "Asr": "16:03 (PKT)",
+        "Sunset": "18:57 (PKT)",
+        "Maghrib": "18:57 (PKT)",
+        "Isha": "20:16 (PKT)",
+        "Imsak": "04:41 (PKT)",
+        "Midnight": "00:33 (PKT)",
+        "Firstthird": "22:41 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "25 Aug 2024",
+        "timestamp": "1724558461",
+        "gregorian": {
+          "date": "25-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "19-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:51 (PKT)",
+        "Sunrise": "06:10 (PKT)",
+        "Dhuhr": "12:33 (PKT)",
+        "Asr": "16:03 (PKT)",
+        "Sunset": "18:56 (PKT)",
+        "Maghrib": "18:56 (PKT)",
+        "Isha": "20:15 (PKT)",
+        "Imsak": "04:41 (PKT)",
+        "Midnight": "00:33 (PKT)",
+        "Firstthird": "22:41 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "26 Aug 2024",
+        "timestamp": "1724644861",
+        "gregorian": {
+          "date": "26-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "20-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:52 (PKT)",
+        "Sunrise": "06:11 (PKT)",
+        "Dhuhr": "12:33 (PKT)",
+        "Asr": "16:03 (PKT)",
+        "Sunset": "18:55 (PKT)",
+        "Maghrib": "18:55 (PKT)",
+        "Isha": "20:14 (PKT)",
+        "Imsak": "04:42 (PKT)",
+        "Midnight": "00:33 (PKT)",
+        "Firstthird": "22:40 (PKT)",
+        "Lastthird": "02:26 (PKT)"
+      },
+      "date": {
+        "readable": "27 Aug 2024",
+        "timestamp": "1724731261",
+        "gregorian": {
+          "date": "27-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "21-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:52 (PKT)",
+        "Sunrise": "06:11 (PKT)",
+        "Dhuhr": "12:33 (PKT)",
+        "Asr": "16:02 (PKT)",
+        "Sunset": "18:54 (PKT)",
+        "Maghrib": "18:54 (PKT)",
+        "Isha": "20:13 (PKT)",
+        "Imsak": "04:42 (PKT)",
+        "Midnight": "00:33 (PKT)",
+        "Firstthird": "22:40 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "28 Aug 2024",
+        "timestamp": "1724817661",
+        "gregorian": {
+          "date": "28-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "22-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:53 (PKT)",
+        "Sunrise": "06:11 (PKT)",
+        "Dhuhr": "12:32 (PKT)",
+        "Asr": "16:02 (PKT)",
+        "Sunset": "18:53 (PKT)",
+        "Maghrib": "18:53 (PKT)",
+        "Isha": "20:12 (PKT)",
+        "Imsak": "04:43 (PKT)",
+        "Midnight": "00:32 (PKT)",
+        "Firstthird": "22:39 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "29 Aug 2024",
+        "timestamp": "1724904061",
+        "gregorian": {
+          "date": "29-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "23-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:54 (PKT)",
+        "Sunrise": "06:12 (PKT)",
+        "Dhuhr": "12:32 (PKT)",
+        "Asr": "16:02 (PKT)",
+        "Sunset": "18:52 (PKT)",
+        "Maghrib": "18:52 (PKT)",
+        "Isha": "20:10 (PKT)",
+        "Imsak": "04:44 (PKT)",
+        "Midnight": "00:32 (PKT)",
+        "Firstthird": "22:39 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "30 Aug 2024",
+        "timestamp": "1724990461",
+        "gregorian": {
+          "date": "30-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "24-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:54 (PKT)",
+        "Sunrise": "06:12 (PKT)",
+        "Dhuhr": "12:32 (PKT)",
+        "Asr": "16:01 (PKT)",
+        "Sunset": "18:51 (PKT)",
+        "Maghrib": "18:51 (PKT)",
+        "Isha": "20:09 (PKT)",
+        "Imsak": "04:44 (PKT)",
+        "Midnight": "00:32 (PKT)",
+        "Firstthird": "22:38 (PKT)",
+        "Lastthird": "02:25 (PKT)"
+      },
+      "date": {
+        "readable": "31 Aug 2024",
+        "timestamp": "1725076861",
+        "gregorian": {
+          "date": "31-08-2024",
+          "format": "DD-MM-YYYY",
+          "day": "31",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 8,
+            "en": "August"
+          },
+          "year": "2024",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "25-02-1446",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 2,
+            "en": "Ṣafar",
+            "ar": "صَفَر"
+          },
+          "year": "1446",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 24.938833,
+        "longitude": 67.089141,
+        "timezone": "Asia/Karachi",
+        "method": {
+          "id": 1,
+          "name": "University of Islamic Sciences, Karachi",
+          "params": {
+            "Fajr": 18,
+            "Isha": 18
+          },
+          "location": {
+            "latitude": 24.8614622,
+            "longitude": 67.0099388
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    }
+  ]

@@ -1,0 +1,52 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "etag_value",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag_value",
+      "id": "playlistItem_id",
+      "snippet": {
+        "publishedAt": "date_time",
+        "channelId": "channel_id",
+        "title": "Video Title",
+        "description": "Video Description",
+        "thumbnails": {
+          "default": {
+            "url": "thumbnail_url",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "thumbnail_url",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "thumbnail_url",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel Name",
+        "playlistId": "playlist_id",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "video_id"
+        }
+      },
+      "contentDetails": {
+        "videoId": "video_id",
+        "videoPublishedAt": "date_time"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
