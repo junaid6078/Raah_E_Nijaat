@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../../utils/colors.dart';
 import '../../pages/account/account.dart';
+import '../../pages/kalam/kalamList.dart';
 import '../../pages/videos/video_List.dart';
 import 'homepage.dart';
 
@@ -15,7 +16,7 @@ class _HomeViewState extends State<HomeView> {
   int _currentIndex = 0;
   final List _navPages = [
     const HomePage(),
-    //const KalamList(),
+    const KalamList(),
     const VideosPage(),
     const Account(),
   ];
@@ -48,7 +49,8 @@ class CustomBottomNavBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BottomNavigationBar(
-      elevation: 0,
+      elevation: 16,
+      landscapeLayout: BottomNavigationBarLandscapeLayout.centered,
       currentIndex: currentIndex,
       onTap: onTabTapped,
       type: BottomNavigationBarType.fixed,
@@ -60,10 +62,10 @@ class CustomBottomNavBar extends StatelessWidget {
           icon: Icon(Icons.home),
           label: 'Home',
         ),
-        // BottomNavigationBarItem(
-        //   icon: Icon(Icons.book),
-        //   label: 'Kalam',
-        // ),
+        BottomNavigationBarItem(
+          icon: Icon(Icons.book),
+          label: 'Kalam',
+        ),
         BottomNavigationBarItem(
           icon: Icon(Icons.movie),
           label: 'Videos',

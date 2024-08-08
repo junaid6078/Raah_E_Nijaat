@@ -1,12 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:raah_e_nijaat/src/features/app/domain/hamd/hamdDomain.dart';
 import 'package:raah_e_nijaat/src/features/app/navigator/navigator.dart';
-import 'package:raah_e_nijaat/src/features/app/presentation/features/search_kalam_screen.dart';
-
-import '../../../domain/hamd/hamd_repository.dart';
-import '../../../domain/kalam.dart';
 import '../../../utils/colors.dart';
 import 'category/kalamListPages/hamdList.dart';
 import 'category/kalamListPages/manqabatList.dart';

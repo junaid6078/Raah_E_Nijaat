@@ -6,8 +6,8 @@ import 'package:get/get.dart';
 import 'package:raah_e_nijaat/src/features/create_account/presentation/sign_up/sign_up.dart';
 import 'firebase_options.dart';
 
-import 'package:raah_e_nijaat/src/features/app/presentation/features/Fazail.dart';
-import 'package:raah_e_nijaat/src/features/app/presentation/features/Qaida.dart';
+import 'package:raah_e_nijaat/src/features/app/presentation/pages/fazail/Fazail.dart';
+import 'package:raah_e_nijaat/src/features/app/presentation/pages/qaida/Qaida.dart';
 import 'package:raah_e_nijaat/src/features/app/presentation/features/quran/quranPage.dart';
 import 'package:raah_e_nijaat/src/features/app/presentation/home_screen/presentation/home_view.dart';
 import 'package:raah_e_nijaat/src/features/app/presentation/pages/kalam/kalamList.dart';

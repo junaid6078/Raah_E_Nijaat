@@ -91,14 +91,10 @@ flutter:
     - assets/naat.json
     - assets/manqabat.json
     - assets/salam.json
-    - assets/aqaid.pdf
-    - assets/videos/splash_video.mp4
     - assets/images/
     - assets/adhanTimes/
     - assets/images/adhanIcon/
-    - assets/images/social media icon/
-    - assets/youtube_videos/videos.json
-    - assets/images/logo_animated.gif
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
