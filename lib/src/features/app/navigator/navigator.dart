@@ -37,4 +37,8 @@ class AppNavigator {
     close(context);
     Navigator.pushNamed(context, "/fazail");
   }
+  static void toFeedback(BuildContext context) {
+    close(context);
+    Navigator.pushNamed(context, "/feedback");
+  }
 }

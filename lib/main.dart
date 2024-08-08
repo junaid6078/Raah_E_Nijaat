@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
+import 'package:raah_e_nijaat/src/features/app/presentation/pages/account/feedback/feedback.dart';
 import 'package:raah_e_nijaat/src/features/create_account/presentation/sign_up/sign_up.dart';
 import 'firebase_options.dart';
 
