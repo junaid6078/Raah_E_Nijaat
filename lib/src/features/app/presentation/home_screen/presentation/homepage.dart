@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:raah_e_nijaat/src/features/app/domain/adhanTimes/adhanRepository.dart';
 import '../../../utils/colors.dart';
-import 'controller/daily_story_controller.dart';
-import 'controller/hijri_date_controller.dart';
-import 'controller/navigation_controller.dart';
+import '../../../controller/homepage/daily_story_controller.dart';
+import '../../../controller/homepage/hijri_date_controller.dart';
+import '../../../controller/homepage/navigation_controller.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -258,11 +258,11 @@ class HijriDate extends StatelessWidget {
                 margin: EdgeInsets.fromLTRB(8, 0, 8, 0),
                 height: size.height * 0.05,
                 width: size.width,
-                decoration: BoxDecoration(
-                  color: whiteColor,
-                  borderRadius: BorderRadius.circular(16),
-                  border: Border.all(color: yellowColor),
-                ),
+                // decoration: BoxDecoration(
+                //   color: whiteColor,
+                //   borderRadius: BorderRadius.circular(16),
+                //   border: Border.all(color: yellowColor),
+                // ),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [

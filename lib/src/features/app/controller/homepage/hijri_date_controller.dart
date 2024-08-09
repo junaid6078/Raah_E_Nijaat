@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 
-import '../../../../domain/adhanTimes/adhanRepository.dart';
+import '../../domain/adhanTimes/adhanRepository.dart';
 
 class HijriDateController extends GetxController {
   final AdhanRepository adhanRepository;

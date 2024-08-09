@@ -8,6 +8,7 @@ import 'package:flutter/services.dart';
 import 'package:gif/gif.dart';
 import 'package:raah_e_nijaat/src/features/app/navigator/navigator.dart';
 import 'package:raah_e_nijaat/src/features/app/presentation/pages/account/feedback/feedback.dart';
+import 'package:raah_e_nijaat/src/features/app/presentation/pages/location/location.dart';
 import 'package:raah_e_nijaat/src/features/app/utils/colors.dart';
 import '../../../../create_account/presentation/sign_in/sign_in.dart';
 import '../../home_screen/presentation/home_view.dart';
@@ -50,7 +51,17 @@ class _AccountState extends State<Account> with TickerProviderStateMixin {
               height: 20,
             ),
             _buildMenuItem(context, Icons.dark_mode, general[0]),
-            _buildMenuItem(context, Icons.location_on, general[1]),
+            _buildMenuItem(
+              context,
+              Icons.location_on,
+              general[1],
+              onTap: () => Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => GeolocatorWidget(),
+                ),
+              ),
+            ),
             _buildMenuItem(
               context,
               Icons.feedback,

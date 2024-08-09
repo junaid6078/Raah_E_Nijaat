@@ -56,6 +56,8 @@ dependencies:
   url_launcher: ^6.0.0
   gif: ^2.3.0
   get: ^4.6.6
+  location: ^6.0.2
+  baseflow_plugin_template: ^2.2.0
 
 
 
