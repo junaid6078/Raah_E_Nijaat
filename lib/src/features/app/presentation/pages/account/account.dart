@@ -58,7 +58,7 @@ class _AccountState extends State<Account> with TickerProviderStateMixin {
               onTap: () => Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => GeolocatorWidget(),
+                  builder: (context) => Location(),
                 ),
               ),
             ),

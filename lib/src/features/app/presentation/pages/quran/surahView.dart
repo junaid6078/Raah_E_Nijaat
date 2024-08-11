@@ -1,7 +1,7 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:quran/quran.dart' as quran;
-import 'package:raah_e_nijaat/src/features/app/presentation/features/quran/quran_page_view/surah_page_view.dart';
+import 'package:raah_e_nijaat/src/features/app/presentation/pages/quran/quran_page_view/surah_page_view.dart';
 
 import '../../../utils/colors.dart';
 
