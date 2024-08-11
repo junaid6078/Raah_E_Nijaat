@@ -2,8 +2,7 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 
-import '../../../domain/kalam.dart';
-
+import '../../domain/kalam.dart';
 
 class SearchKalams extends SearchDelegate {
   @override
@@ -13,7 +12,7 @@ class SearchKalams extends SearchDelegate {
         onPressed: () {
           query = "";
         },
-        icon: Icon(Icons.close),
+        icon: const Icon(Icons.close),
       )
     ];
   }
@@ -21,7 +20,7 @@ class SearchKalams extends SearchDelegate {
   @override
   Widget buildLeading(BuildContext context) {
     return IconButton(
-      icon: Icon(Icons.arrow_back),
+      icon: const Icon(Icons.arrow_back),
       onPressed: () {
         Navigator.pop(context);
       },
