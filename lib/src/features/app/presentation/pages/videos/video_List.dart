@@ -12,10 +12,9 @@ class VideosPage extends StatefulWidget {
 }
 
 class _VideosPageState extends State<VideosPage> {
-  TextEditingController _searchController = TextEditingController();
+  final TextEditingController _searchController = TextEditingController();
   String _searchQuery = '';
-  bool _isLoading = false;
-  bool _hasError = false;
+  final bool _isLoading = false;
 
   void _onSearchChanged() {
     setState(() {
@@ -42,12 +41,12 @@ class _VideosPageState extends State<VideosPage> {
       backgroundColor: whiteColor,
       appBar: _appBar(),
       body: _isLoading
-          ? Center(child: CircularProgressIndicator())
+          ? const Center(child: CircularProgressIndicator())
           : VideoList(
-        channelId: 'PLSrBeYs6txhJljHxrSid8ytqtmP4WGq3Z',
-        apiKey: 'AIzaSyArC4S0eZTllJaVL9WX_vV9-zDN9VUEKX4',
-        searchQuery: _searchQuery,
-      ),
+              channelId: 'PLSrBeYs6txhJljHxrSid8ytqtmP4WGq3Z',
+              apiKey: 'AIzaSyArC4S0eZTllJaVL9WX_vV9-zDN9VUEKX4',
+              searchQuery: _searchQuery,
+            ),
     );
   }
 
@@ -63,7 +62,8 @@ class _VideosPageState extends State<VideosPage> {
       elevation: 0,
       backgroundColor: whiteColor,
       bottom: PreferredSize(
-        preferredSize: Size.fromHeight(MediaQuery.of(context).size.height * 0.1),
+        preferredSize:
+            Size.fromHeight(MediaQuery.of(context).size.height * 0.1),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
           child: TextField(
@@ -71,22 +71,29 @@ class _VideosPageState extends State<VideosPage> {
             decoration: InputDecoration(
               hintText: 'Search videos...',
               enabledBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: yellowColor),
+                borderSide: BorderSide(color: blueColor),
                 borderRadius: BorderRadius.circular(16),
               ),
               focusedBorder: OutlineInputBorder(
                 borderSide: BorderSide(color: yellowColor),
                 borderRadius: BorderRadius.circular(16),
               ),
-              suffixIcon: IconButton(
-                icon: Icon(Icons.clear),
-                onPressed: () {
-                  _searchController.clear();
-                  setState(() {
-                    _searchQuery = '';
-                  });
-                },
-              ),
+              suffixIcon: (_searchController.text.isNotEmpty)
+                  ? IconButton(
+                      icon: const Icon(Icons.clear),
+                      onPressed: () {
+                        _searchController.clear();
+                        setState(() {
+                          _searchQuery = '';
+                        });
+                      },
+                    )
+                  : IconButton(
+                      icon: Icon(Icons.search),
+                      onPressed: () {
+                        _searchController;
+                      },
+                    ),
             ),
           ),
         ),
@@ -107,7 +114,8 @@ class VideoList extends StatelessWidget {
     required this.searchQuery,
   });
 
-  Future<List<dynamic>> fetchYoutubeVideos(String playlistId, String apiKey) async {
+  Future<List<dynamic>> fetchYoutubeVideos(
+      String playlistId, String apiKey) async {
     try {
       final playlistResponse = await http.get(Uri.parse(
           'https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&playlistId=$playlistId&maxResults=10&key=$apiKey'));
@@ -119,7 +127,8 @@ class VideoList extends StatelessWidget {
       final playlistData = json.decode(playlistResponse.body);
       final List<dynamic> videos = playlistData['items'];
 
-      final videoIds = videos.map((video) => video['contentDetails']['videoId']).toList();
+      final videoIds =
+          videos.map((video) => video['contentDetails']['videoId']).toList();
 
       final videoDetailsResponse = await http.get(Uri.parse(
           'https://www.googleapis.com/youtube/v3/videos?part=contentDetails&id=${videoIds.join(",")}&key=$apiKey'));
@@ -187,9 +196,11 @@ class VideoList extends StatelessWidget {
             itemCount: filteredVideos.length,
             itemBuilder: (BuildContext context, int index) {
               final video = filteredVideos[index]['snippet'];
-              final duration = formatDuration(filteredVideos[index]['duration']);
+              final duration =
+                  formatDuration(filteredVideos[index]['duration']);
               final publishedAt = formatDate(video['publishedAt']);
-              final videoId = filteredVideos[index]['contentDetails']['videoId'];
+              final videoId =
+                  filteredVideos[index]['contentDetails']['videoId'];
               return Padding(
                 padding: const EdgeInsets.fromLTRB(8, 4, 8, 4),
                 child: ListTile(
@@ -199,7 +210,7 @@ class VideoList extends StatelessWidget {
                   ),
                   title: Text(
                     video['title'],
-                    style: const TextStyle(fontSize: 16),
+                    style: const TextStyle(fontSize: 12),
                     overflow: TextOverflow.fade,
                     maxLines: 2,
                   ),

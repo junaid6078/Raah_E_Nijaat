@@ -3,22 +3,33 @@ import 'package:get/get.dart';
 import '../../../../../main.dart';
 import '../../utils/colors.dart';
 
-class SplashScreen extends StatelessWidget {
+class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  _SplashScreenState createState() => _SplashScreenState();
+}
+
+class _SplashScreenState extends State<SplashScreen> {
+  @override
+  void initState() {
+    super.initState();
     final AuthController authController = Get.find<AuthController>();
 
     // Navigate based on auth state after the splash screen delay
     Future.delayed(const Duration(seconds: 1), () {
-      if (authController.isLoggedIn.value) {
-        Get.offNamed('/home');
-      } else {
-        Get.offNamed('/home');
+      if (mounted) { // Ensure the widget is still in the widget tree
+        if (authController.isLoggedIn.value) {
+          Get.offNamed('/home');
+        } else {
+          Get.offNamed('/home');
+        }
       }
     });
+  }
 
+  @override
+  Widget build(BuildContext context) {
     return const Scaffold(
       body: ImageBackground(),
     );

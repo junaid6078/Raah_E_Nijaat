@@ -52,12 +52,6 @@ class _KalamListState extends State<KalamList> {
 
   AppBar _buildAppBar() {
     return AppBar(
-      leading: BackButton(
-        color: blueColor,
-        onPressed: () {
-          AppNavigator.toHome(context);
-        },
-      ),
       bottom: _tabBar(),
       title: AutoSizeText(
         "Kalam",

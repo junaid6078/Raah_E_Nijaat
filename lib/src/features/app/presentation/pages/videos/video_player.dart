@@ -53,7 +53,7 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
           widget.title,
           style: TextStyle(
             color: blueColor,
-            fontSize: 24,
+            fontSize: 14,
           ),
         ),
         leading: BackButton(
@@ -83,7 +83,7 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
                   Text(
                     widget.title,
                     style: const TextStyle(
-                      fontSize: 20,
+                      fontSize: 14,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -91,7 +91,7 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
                   Text(
                     'Published on: ${widget.publishedAt}',
                     style: const TextStyle(
-                      fontSize: 16,
+                      fontSize: 12,
                       color: Colors.grey,
                     ),
                   ),
@@ -99,7 +99,7 @@ class _VideoPlayerPageState extends State<VideoPlayerPage> {
                   Text(
                     'Duration: ${widget.duration}',
                     style: const TextStyle(
-                      fontSize: 16,
+                      fontSize: 12,
                       color: Colors.grey,
                     ),
                   ),

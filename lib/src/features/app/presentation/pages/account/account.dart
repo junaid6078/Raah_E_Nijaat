@@ -1,17 +1,8 @@
-import 'dart:ui';
-
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:gif/gif.dart';
-import 'package:raah_e_nijaat/src/features/app/navigator/navigator.dart';
 import 'package:raah_e_nijaat/src/features/app/presentation/pages/account/feedback/feedback.dart';
 import 'package:raah_e_nijaat/src/features/app/presentation/pages/location/location.dart';
 import 'package:raah_e_nijaat/src/features/app/utils/colors.dart';
-import '../../../../create_account/presentation/sign_in/sign_in.dart';
-import '../../home_screen/presentation/home_view.dart';
 
 class Account extends StatefulWidget {
   const Account({super.key});
@@ -22,7 +13,6 @@ class Account extends StatefulWidget {
 
 class _AccountState extends State<Account> with TickerProviderStateMixin {
   final List<String> general = [
-    'Theme',
     'Location',
     'Feedback',
     'About Us',
@@ -50,22 +40,21 @@ class _AccountState extends State<Account> with TickerProviderStateMixin {
             SizedBox(
               height: 20,
             ),
-            _buildMenuItem(context, Icons.dark_mode, general[0]),
             _buildMenuItem(
               context,
               Icons.location_on,
-              general[1],
+              general[0],
               onTap: () => Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => GeolocatorWidget(),
+                  builder: (context) => Location(),
                 ),
               ),
             ),
             _buildMenuItem(
               context,
               Icons.feedback,
-              general[2],
+              general[1],
               onTap: () => Navigator.push(
                 context,
                 MaterialPageRoute(
@@ -73,7 +62,7 @@ class _AccountState extends State<Account> with TickerProviderStateMixin {
                 ),
               ),
             ),
-            _buildMenuItem(context, Icons.contact_support, general[3]),
+            _buildMenuItem(context, Icons.contact_support, general[2]),
           ],
         ),
       ),
@@ -81,7 +70,6 @@ class _AccountState extends State<Account> with TickerProviderStateMixin {
   }
 
   AppBar _appBar() {
-    final size = MediaQuery.of(context).size;
     return AppBar();
   }
 

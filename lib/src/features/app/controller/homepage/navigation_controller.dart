@@ -10,13 +10,13 @@ class NavigationController extends GetxController {
     // List of pages to navigate to
     List<Widget> gridPages = [
       //CommingSoon(),
-      QuranHomePage(),
+      //QuranHomePage(),
       KalamList(),
       VideosPage(),
       //CommingSoon(),
       //CommingSoon(),
       //CommingSoon(),
-      //CommingSoon(),
+      CommingSoon(),
       //CommingSoon(),
       //CommingSoon(),
       //CommingSoon(),
