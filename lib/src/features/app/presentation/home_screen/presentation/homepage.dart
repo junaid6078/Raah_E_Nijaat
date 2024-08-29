@@ -42,7 +42,9 @@ class _HomePageState extends State<HomePage> {
 
     return Scaffold(
       key: GlobalKey<ScaffoldState>(),
-      backgroundColor: Colors.white70,
+      backgroundColor: blueColor,
+      //bottomNavigationBar: AdScreen(),
+      appBar: _appBar(),
       body: SingleChildScrollView(
         child: Column(
           children: [
