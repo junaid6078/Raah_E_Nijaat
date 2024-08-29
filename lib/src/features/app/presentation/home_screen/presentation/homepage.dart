@@ -42,32 +42,43 @@ class _HomePageState extends State<HomePage> {
 
     return Scaffold(
       key: GlobalKey<ScaffoldState>(),
-      backgroundColor: Colors.white70,
+      backgroundColor: blueColor,
+      //bottomNavigationBar: AdScreen(),
+      appBar: _appBar(),
       body: SingleChildScrollView(
-        child: Column(
-          children: [
-            _appBar(),
-            Container(
-              margin: const EdgeInsets.fromLTRB(8, 0, 8, 0),
-              height: size.height * 0.36,
-              width: size.width,
-              child: HijriDate(
-                adhanRepository: AdhanRepositoryImpl(context),
+        child: Container(
+          height: size.height.toDouble(),
+          decoration: BoxDecoration(
+            color: whiteColor,
+            borderRadius: BorderRadius.only(
+              topRight: Radius.circular(16),
+              topLeft: Radius.circular(16),
+            ),
+          ),
+          child: Column(
+            children: [
+              Container(
+                margin: const EdgeInsets.fromLTRB(8, 0, 8, 0),
+                height: size.height * 0.4,
+                width: size.width,
+                child: HijriDate(
+                  adhanRepository: AdhanRepositoryImpl(context),
+                ),
               ),
-            ),
-            SizedBox(
-              height: size.height * 0.02,
-            ),
-            const HomeGridFeatures(),
-            SizedBox(
-              height: size.height * 0.02,
-            ),
-            AdScreen(),
-            //DailyStory(),
-            SizedBox(
-              height: size.height * 0.1,
-            ),
-          ],
+              SizedBox(
+                height: size.height * 0.02,
+              ),
+              HomeGridFeatures(),
+              SizedBox(
+                height: size.height * 0.02,
+              ),
+              AdScreen(),
+              //DailyStory(),
+              SizedBox(
+                height: size.height * 0.1,
+              ),
+            ],
+          ),
         ),
       ),
     );
@@ -75,7 +86,7 @@ class _HomePageState extends State<HomePage> {
 
   AppBar _appBar() {
     return AppBar(
-      backgroundColor: whiteColor,
+      backgroundColor: blueColor,
       scrolledUnderElevation: 0,
       title: GestureDetector(
         onTap: () async {
@@ -169,16 +180,18 @@ class _HijriDateState extends State<HijriDate> {
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
-    // Specify the calculation parameters for prayer times
-    PrayerCalculationParameters params = PrayerCalculationMethod.karachi();
-    params.madhab = PrayerMadhab.hanafi;
-    // Create a PrayerTimes instance for the specified location
-    PrayerTimes prayerTimes = PrayerTimes(
-      coordinates: coordinates,
-      calculationParameters: params,
-      precision: true,
-      locationName: 'Asia/Karachi',
-    );
+
+    // // Specify the calculation parameters for prayer times
+    // PrayerCalculationParameters params = PrayerCalculationMethod.karachi();
+    // params.madhab = PrayerMadhab.hanafi;
+    // // Create a PrayerTimes instance for the specified location
+    // PrayerTimes prayerTimes = PrayerTimes(
+    //   coordinates: coordinates,
+    //   calculationParameters: params,
+    //   precision: true,
+    //   locationName: 'Europe/London',
+    // );
+
     final HijriDateController controller =
         Get.put(HijriDateController(widget.adhanRepository));
 
@@ -368,9 +381,13 @@ class _HijriDateState extends State<HijriDate> {
               SizedBox(
                 height: size.height * 0.03,
               ),
+              Divider(
+                indent: 16,
+                endIndent: 16,
+              ),
               Container(
                 margin: EdgeInsets.fromLTRB(8, 0, 8, 0),
-                height: size.height * 0.05,
+                height: size.height * 0.07,
                 width: size.width,
                 // decoration: BoxDecoration(
                 //   color: whiteColor,
@@ -385,6 +402,11 @@ class _HijriDateState extends State<HijriDate> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
+                          Icon(
+                            Icons.stop,
+                            size: 12,
+                            color: i == adhanIndex ? yellowColor : blueColor,
+                          ),
                           Text(
                             controller.adhanNameList[i],
                             style: TextStyle(
@@ -499,10 +521,12 @@ class _AdScreenState extends State<AdScreen> {
       adUnitId: AdHelper.HomeBanner(),
       listener: BannerAdListener(
         onAdLoaded: (ad) {
-          setState(() {
-            isAdLoaded = true;
-            print(isAdLoaded);
-          });
+          setState(
+            () {
+              isAdLoaded = true;
+              print(isAdLoaded);
+            },
+          );
         },
         onAdFailedToLoad: (ad, err) {
           isAdLoaded = false;
@@ -517,19 +541,15 @@ class _AdScreenState extends State<AdScreen> {
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
-    return Container(
-      height: size.height * 0.3,
-      width: size.width,
-      child: isAdLoaded
-          ? Container(
-              height: _bannerAd.size.height.toDouble(),
-              width: double.infinity,
-              child: AdWidget(ad: _bannerAd),
-            )
-          : Container(
-              height: 0,
-            ),
-    );
+    return isAdLoaded
+        ? SizedBox(
+            height: _bannerAd.size.height.toDouble(),
+            width: double.infinity,
+            child: AdWidget(ad: _bannerAd),
+          )
+        : Container(
+            height: 0,
+          );
   }
 }
 
