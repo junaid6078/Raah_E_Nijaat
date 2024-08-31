@@ -1,15 +1,15 @@
+import 'dart:convert';
+import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:prayers_times/prayers_times.dart';
-import 'package:provider/provider.dart';
 import 'package:raah_e_nijaat/src/features/app/domain/adhanTimes/adhanRepository.dart';
 import 'package:raah_e_nijaat/src/features/app/services/Ads/google_ads.dart';
 import '../../../controller/location/location_service.dart';
 import '../../../utils/colors.dart';
-import '../../../controller/homepage/daily_story_controller.dart';
 import '../../../controller/homepage/hijri_date_controller.dart';
 import '../../../controller/homepage/navigation_controller.dart';
 
@@ -27,6 +27,7 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     _loadLocation();
+    _sendAddressToBackend(_currentAddress);
   }
 
   Future<void> _loadLocation() async {
@@ -34,6 +35,20 @@ class _HomePageState extends State<HomePage> {
     setState(() {
       _currentAddress = address;
     });
+  }
+  void _sendAddressToBackend(String address) async {
+    final url = Uri.parse('http://192.168.0.109:5000/submit-address');
+    final response = await http.post(
+      url,
+      headers: {"Content-Type": "application/json"},
+      body: json.encode({"address": address}),
+    );
+
+    if (response.statusCode == 200) {
+      print('Address sent successfully');
+    } else {
+      print('Failed to send address');
+    }
   }
 
   @override
@@ -95,6 +110,7 @@ class _HomePageState extends State<HomePage> {
           String address = await LocationService().getCurrentLocation();
           setState(() {
             _currentAddress = address;
+            _sendAddressToBackend(_currentAddress);
           });
         },
         child: Row(
